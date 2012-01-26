@@ -18,7 +18,6 @@ from os import path
 from django.conf.urls.defaults import *
 from django.contrib import admin
 from django.conf import settings
-from django.conf import settings
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.http import HttpResponse
 
